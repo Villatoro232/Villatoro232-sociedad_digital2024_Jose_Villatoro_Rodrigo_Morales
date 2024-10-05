@@ -184,3 +184,9 @@ body {
     display: inline-block; /* Hacer que el fondo negro se ajuste al tamaño del texto */
     font-size: 3em; /* Tamaño del texto, ajustable según tu preferencia */
 }
+.IA_img {
+    width: 200px;    /* Ajusta el ancho de la imagen */
+    height: auto;    /* Mantiene la proporción de la imagen */
+    border-radius: 20px;  /* Bordes redondeados opcionales */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra opcional para efecto visual */
+}
